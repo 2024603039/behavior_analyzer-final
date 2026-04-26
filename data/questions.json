@@ -1,0 +1,122 @@
+[
+  {
+    "question": "과제 마감 3일 전 당신은?",
+    "options": {
+      "이미 끝냈다": "plan",
+      "슬슬 시작": "normal",
+      "아직 안 함": "delay"
+    }
+  },
+  {
+    "question": "팀플 갈등이 생기면?",
+    "options": {
+      "바로 해결": "direct",
+      "참는다": "avoid",
+      "도망": "escape"
+    }
+  },
+  {
+    "question": "시험 공부 스타일은?",
+    "options": {
+      "꾸준히": "plan",
+      "벼락치기": "delay",
+      "거의 안함": "avoid"
+    }
+  },
+  {
+    "question": "스트레스를 받으면?",
+    "options": {
+      "운동": "healthy",
+      "게임": "escape",
+      "아무것도 안함": "avoid"
+    }
+  },
+  {
+    "question": "중요한 일을 맡으면?",
+    "options": {
+      "계획 세움": "plan",
+      "미루다가 함": "delay",
+      "남에게 넘김": "avoid"
+    }
+  },
+  {
+    "question": "실수했을 때?",
+    "options": {
+      "바로 해결": "direct",
+      "회피": "avoid",
+      "잊으려 함": "escape"
+    }
+  },
+  {
+    "question": "하루 루틴은?",
+    "options": {
+      "계획적": "plan",
+      "즉흥적": "normal",
+      "무계획": "delay"
+    }
+  },
+  {
+    "question": "압박이 오면?",
+    "options": {
+      "집중": "direct",
+      "회피": "avoid",
+      "포기": "escape"
+    }
+  },
+  {
+    "question": "과제량 많을 때?",
+    "options": {
+      "분배해서 처리": "plan",
+      "한 번에 몰아서": "delay",
+      "손 놓음": "avoid"
+    }
+  },
+  {
+    "question": "목표 설정은?",
+    "options": {
+      "명확함": "plan",
+      "대충 있음": "normal",
+      "없음": "avoid"
+    }
+  },
+  {
+    "question": "해야 할 일이 많을 때 당신은?",
+    "options": {
+      "우선순위를 정한다": "plan",
+      "일단 쉰다": "delay",
+      "아무것도 안 한다": "avoid"
+    }
+  },
+  {
+    "question": "새로운 도전 기회가 오면?",
+    "options": {
+      "바로 도전": "direct",
+      "망설이다 포기": "avoid",
+      "다음으로 미룸": "delay"
+    }
+  },
+  {
+    "question": "계획이 틀어졌을 때?",
+    "options": {
+      "다시 계획": "plan",
+      "포기": "escape",
+      "남 탓": "avoid"
+    }
+  },
+  {
+    "question": "팀플에서 맡은 역할은?",
+    "options": {
+      "책임감 있게 수행": "direct",
+      "적당히 함": "normal",
+      "넘김": "avoid"
+    }
+  },
+  {
+    "question": "해야 할 일이 있는데 하기 싫을 때?",
+    "options": {
+      "일단 시작": "direct",
+      "미룸": "delay",
+      "안 함": "avoid"
+    }
+  }
+]
